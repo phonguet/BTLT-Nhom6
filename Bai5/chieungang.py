@@ -4,7 +4,7 @@ import numpy as np
 import colorsys
 
 
-height = width = 330
+height = width = 400
 chieungang = np.zeros((height,width,3), np.uint8)
 
 
