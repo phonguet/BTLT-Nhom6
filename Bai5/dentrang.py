@@ -31,4 +31,3 @@ cv2.imwrite("dentrang.jpg",dentrang )
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
